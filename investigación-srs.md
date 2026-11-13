@@ -1,4 +1,4 @@
-## Investigacion SRS
+# Investigacion SRS
 
 ### **SRS/ERS y los problemas que evita**
 
@@ -14,7 +14,7 @@ Además, ayuda a evitar problemas, como:
   2. Estimaciones poco reales.
   3. Pruebas sin criterio.
 
-**Estructura del estándar IEEE 830-1998**
+### **Estructura del estándar IEEE 830-1998**
 
 Las secciones que propone el estándar IEEE 830-1998 son las siguientes:
 
@@ -43,7 +43,7 @@ Atributos del sistema |	Fiabilidad, disponibilidad, seguridad, mantenibilidad, p
 Otros requerimientos |	Lo que no sale en lo anterior
 **Apéndices e índice** |	Material de apoyo 
 
-**Características de un buen requerimiento**
+### **Características de un buen requerimiento**
 
 Según IEEE 832-1998 un buen requerimiento contiene lo siguiente:
 
@@ -59,10 +59,12 @@ Según IEEE 832-1998 un buen requerimiento contiene lo siguiente:
 **Singular / atómico** |	Expresa una sola cosa (29148)
 **Factible** |	Es realizable con los recursos y el tiempo del proyecto (29148)
 
-  **EJEMPLO MALO**
+##  **EJEMPLO MALO**
+
 RF-01: El sistema debe ser rápido y fácil de usar, y permitir gestionar a los clientes de manera eficiente.
 
-  **EJEMPLO BUENO**
+##  **EJEMPLO BUENO**
+
 RF-01: El sistema debe permitir al usuario con rol Administrador registrar un cliente capturando nombre, correo electrónico y teléfono.
 
 RNF-01: El sistema debe mostrar los resultados de una búsqueda de clientes en un máximo de 2 segundos para el 95 % de las consultas, con hasta 50 usuarios concurrentes.
