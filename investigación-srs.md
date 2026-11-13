@@ -24,6 +24,13 @@ Introducción |
 Propósito | Motivo del documento y a quién será dirigido.
 Alcance | Nombre del producto, beneficios y objetivos.
 Definiciones, acrónimos y abreviaturas | Glosario de términos usados.
+Referencias | Documentos citados.
+Visión general | Organización del documento.
+Descripción general |
+Perspectiva del producto | Relación con otros sistemas.
+Funciones del producto | Funciones principales.
+Características de los usuarios | Perfiles
+
 
 **Declaración de uso de la IA generativa.**
 
