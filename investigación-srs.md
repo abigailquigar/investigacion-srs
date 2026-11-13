@@ -1,6 +1,6 @@
-##Investigacion SRS
+## Investigacion SRS
 
-###**SRS/ERS y los problemas que evita**
+### **SRS/ERS y los problemas que evita**
 
 Es un documento que establece los requerimientos funcionales y no funcionales de un producto de software y las interfaces con su entorno. Según IEEE (1998), una buena SRS beneficia a varios personajes:
 
