@@ -34,7 +34,14 @@ Restricciones | Limitaciones legales, tecnológicas, de hardware, de plazo, entr
 Suposiciones y dependencias | Factores que, al cambiar, afectan los requerimientos.
 Distribución de requerimientos | Requerimientos que se pospondrán a versiones futuras.
 **Requerimientos específicos** |
-
+Interfaces externas |	De usuario, de hardware, de software y de comunicaciones.
+Funciones	| Qué debe hacer el sistema.
+Requerimientos de rendimiento |	Tiempos de respuesta, capacidad, usuarios concurrentes.
+Requerimientos lógicos de base de datos	| Información que se almacenará.
+Restricciones de diseño	| Estándares, normas y limitaciones impuestas.
+Atributos del sistema |	Fiabilidad, disponibilidad, seguridad, mantenibilidad, portabilidad.
+Otros requerimientos |	Lo que no sale en lo anterior
+Apéndices e índice |	Material de apoyo 
 
 
 
