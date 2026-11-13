@@ -19,7 +19,7 @@ Además, ayuda a evitar problemas, como:
 Las secciones que propone el estándar IEEE 830-1998 son las siguientes:
 
 **Sección** | **Contenido** |
-------------------------------------------- | --------------------------------------------- |
+--- | --- |
 **Introducción** |
 Propósito | Motivo del documento y a quién será dirigido.
 Alcance | Nombre del producto, beneficios y objetivos.
@@ -34,6 +34,7 @@ Restricciones | Limitaciones legales, tecnológicas, de hardware, de plazo, entr
 Suposiciones y dependencias | Factores que, al cambiar, afectan los requerimientos.
 Distribución de requerimientos | Requerimientos que se pospondrán a versiones futuras.
 **Requerimientos específicos** |
+
 
 
 
