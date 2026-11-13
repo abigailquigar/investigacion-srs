@@ -20,7 +20,10 @@ Las secciones que propone el estándar IEEE 830-1998 son las siguientes:
 
 **Sección** | **Contenido** |
 ------------------------------------------- | --------------------------------------------- |
-Seconds | 301 |
+Introducción |
+Propósito | Motivo del documento y a quién será dirigido.
+Alcance | Nombre del producto, beneficios y objetivos.
+Definiciones, acrónimos y abreviaturas | Glosario de términos usados.
 
 **Declaración de uso de la IA generativa.**
 
