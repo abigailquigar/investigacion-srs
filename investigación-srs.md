@@ -30,6 +30,10 @@ Descripción general |
 Perspectiva del producto | Relación con otros sistemas.
 Funciones del producto | Funciones principales.
 Características de los usuarios | Perfiles
+Restricciones  Limitaciones legales
+
+<img width="687" height="580" alt="image" src="https://github.com/user-attachments/assets/2992865a-9f01-4ef8-ba52-5032dd58c6fe" />
+
 
 
 **Declaración de uso de la IA generativa.**
