@@ -1,6 +1,6 @@
 # SRS – BusTrack
 
-## 3. Requerimientos del sistema
+## Requerimientos del sistema
 
 ### 3.1 Requerimientos funcionales
 
@@ -39,7 +39,7 @@
 - **Prioridad:** Alta.
 - **Criterio de aceptación:** Al seleccionar una ubicación, el sistema mostrará los autobuses cercanos cuando exista información disponible.
 
-### 3.2 Requerimientos no funcionales
+###  Requerimientos no funcionales
 
 **RNF-01. Seguridad y privacidad**
 
