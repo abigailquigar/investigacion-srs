@@ -39,6 +39,19 @@ Distribución de requerimientos | Requerimientos que se pospondrán a versiones 
 
 
 
+
 **Declaración de uso de la IA generativa.**
 
-En este archivo se utilizó la IA Claude para hacer un borrador de esta investigación: propuso la estructura de la investigación, además de sugerir modificaciones.
+En este archivo se utilizó la IA Claude para hacer un borrador de esta investigación: propuso la estructura de la investigación, además de sugerir modificaciones y brindar las referencias APA 7 según donde investigamos.
+
+**Referencias APA 7**
+
+IEEE. (1998). IEEE recommended practice for software requirements specifications (IEEE Std 830-1998). https://doi.org/10.1109/IEEESTD.1998.88286
+
+ISO/IEC/IEEE. (2018). Systems and software engineering — Life cycle processes — Requirements engineering (ISO/IEC/IEEE 29148:2018). https://doi.org/10.1109/IEEESTD.2018.8559686
+
+Robertson, S., & Robertson, J. (2012). Mastering the requirements process: Getting requirements right (3.ª ed.). Addison-Wesley.
+
+Sommerville, I. (2016). Software engineering (10.ª ed.). Pearson.
+
+Wiegers, K., & Beatty, J. (2013). Software requirements (3.ª ed.). Microsoft Press.
