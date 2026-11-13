@@ -20,19 +20,22 @@ Las secciones que propone el estándar IEEE 830-1998 son las siguientes:
 
 **Sección** | **Contenido** |
 ------------------------------------------- | --------------------------------------------- |
-Introducción |
+1. Introducción
 Propósito | Motivo del documento y a quién será dirigido.
 Alcance | Nombre del producto, beneficios y objetivos.
 Definiciones, acrónimos y abreviaturas | Glosario de términos usados.
 Referencias | Documentos citados.
 Visión general | Organización del documento.
-Descripción general |
+2. Descripción general
 Perspectiva del producto | Relación con otros sistemas.
 Funciones del producto | Funciones principales.
 Características de los usuarios | Perfiles
-Restricciones  Limitaciones legales
+Restricciones | Limitaciones legales, tecnológicas, de hardware, de plazo, entre otros.
+Suposiciones y dependencias | Factores que, al cambiar, afectan los requerimientos.
+Distribución de requerimientos | Requerimientos que se pospondrán a versiones futuras.
+3. Requerimientos específicos 
 
-<img width="687" height="580" alt="image" src="https://github.com/user-attachments/assets/2992865a-9f01-4ef8-ba52-5032dd58c6fe" />
+
 
 
 
