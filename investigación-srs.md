@@ -70,7 +70,18 @@ Según IEEE 832-1998 un buen requerimiento contiene lo siguiente:
 
 *RNF-01: El sistema debe mostrar los resultados de una búsqueda de clientes en un máximo de 2 segundos para el 95 % de las consultas, con hasta 50 usuarios concurrentes.*
 
+### **Plantillas y herramientas para escribir y versionar una SRS**
 
+**Plantillas**
+
+**Plantilla** |	**Descripción**
+--- | --- |
+**IEEE 830-1998** |	Estructura de 3 secciones descrita arriba.
+**ISO/IEC/IEEE 29148:2018** |	Norma vigente de ingeniería de requerimientos; define contenido de la SRS y procesos.
+**Volere (Robertson y Robertson, 2012)** |	Plantilla orientada a negocio, con campos por requerimiento.
+**Plantilla de Wiegers y Beatty (2013)** |	Adaptación práctica de 830, con guía y ejemplos.
+
+**Herramientas**
 
 
 ### **Declaración de uso de la IA generativa.**
