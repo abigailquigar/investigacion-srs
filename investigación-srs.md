@@ -91,6 +91,13 @@ Gestión de proyecto/documentación |	Jira, Confluence, Azure DevOps
 Herramientas especializadas de requerimientos |	ReqView, Doorstop, IBM DOORS	
 Diagramas |	draw.io, PlantUML, Mermaid
 
+### **Plantilla elegida para el proyecto**
+
+Estructura de IEEE 830-1998, escrita en Markdown y versionada con GitHub.
+
+**Justificación:**
+
+La estructura de IEEE 830 es fácil de comprender y es fácil de colaborar con otros integrantes, aparte de que es libre y adaptable. Permite ver quién cambió algo y qué y cuándo fue. 
 
 ### **Declaración de uso de la IA generativa.**
 
