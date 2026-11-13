@@ -49,33 +49,35 @@ Según IEEE 832-1998 un buen requerimiento contiene lo siguiente:
 
 **Característica** |	**Significado**
 --- | --- |
-**Correcto** |	Refleja una necesidad real de los interesados
-**No ambiguo** |	Admite una sola interpretación
-**Completo** |	No omite información necesaria
-**Consistente**	| No contradice a otros requerimientos
-**Verificable** |	Se puede comprobar con una prueba, inspección o medición
-**Modificable** |	Su estructura permite cambiarlo sin afectar a todo el documento
-**Trazable** |	Tiene un identificador y se puede rastrear a su origen y a su implementación
-**Priorizado** |	Se indica su importancia o estabilidad
-**Singular / atómico** |	Expresa una sola cosa (29148)
-**Factible** |	Es realizable con los recursos y el tiempo del proyecto (29148)
+**Correcto** |	Refleja una necesidad real de los interesados.
+**No ambiguo** |	Admite una sola interpretación.
+**Completo** |	No omite información necesaria.
+**Consistente**	| No contradice a otros requerimientos.
+**Verificable** |	Se puede comprobar con una prueba, inspección o medición.
+**Modificable** |	Su estructura permite cambiarlo sin afectar a todo el documento.
+**Trazable** |	Tiene un identificador y se puede rastrear a su origen y a su implementación.
+**Priorizado** |	Se indica su importancia o estabilidad.
+**Singular / atómico** |	Expresa una sola cosa (29148).
+**Factible** |	Es realizable con los recursos y el tiempo del proyecto (29148).
 
-##  **EJEMPLO MALO**
+###  **EJEMPLO MALO**
 
-RF-01: El sistema debe ser rápido y fácil de usar, y permitir gestionar a los clientes de manera eficiente.
+*RF-01: El sistema debe ser rápido y fácil de usar, y permitir gestionar a los clientes de manera eficiente.*
 
-##  **EJEMPLO BUENO**
+###  **EJEMPLO BUENO**
 
-RF-01: El sistema debe permitir al usuario con rol Administrador registrar un cliente capturando nombre, correo electrónico y teléfono.
+*RF-01: El sistema debe permitir al usuario con rol Administrador registrar un cliente capturando nombre, correo electrónico y teléfono.*
 
-RNF-01: El sistema debe mostrar los resultados de una búsqueda de clientes en un máximo de 2 segundos para el 95 % de las consultas, con hasta 50 usuarios concurrentes.
+*RNF-01: El sistema debe mostrar los resultados de una búsqueda de clientes en un máximo de 2 segundos para el 95 % de las consultas, con hasta 50 usuarios concurrentes.*
 
 
-**Declaración de uso de la IA generativa.**
+
+
+### **Declaración de uso de la IA generativa.**
 
 En este archivo se utilizó la IA Claude para hacer un borrador de esta investigación: propuso la estructura de la investigación, además de sugerir modificaciones y brindar las referencias APA 7 según donde investigamos.
 
-**Referencias APA 7**
+### **Referencias APA 7**
 
 IEEE. (1998). IEEE recommended practice for software requirements specifications (IEEE Std 830-1998). https://doi.org/10.1109/IEEESTD.1998.88286
 
