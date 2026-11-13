@@ -83,6 +83,14 @@ Según IEEE 832-1998 un buen requerimiento contiene lo siguiente:
 
 **Herramientas**
 
+**Tipo** |	**Ejemplos**
+--- | --- |
+Texto plano + control de versiones |	Markdown + Git/GitHub/GitLab
+Documentos colaborativos |	Google Docs, Word con historial de versiones
+Gestión de proyecto/documentación |	Jira, Confluence, Azure DevOps	
+Herramientas especializadas de requerimientos |	ReqView, Doorstop, IBM DOORS	
+Diagramas |	draw.io, PlantUML, Mermaid
+
 
 ### **Declaración de uso de la IA generativa.**
 
