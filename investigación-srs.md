@@ -48,6 +48,7 @@ Otros requerimientos |	Lo que no sale en lo anterior
 Según IEEE 832-1998 un buen requerimiento contiene lo siguiente:
 
 **Característica** |	**Significado**
+--- | --- |
 **Correcto** |	Refleja una necesidad real de los interesados
 **No ambiguo** |	Admite una sola interpretación
 **Completo** |	No omite información necesaria
