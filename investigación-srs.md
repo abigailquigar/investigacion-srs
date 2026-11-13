@@ -41,11 +41,31 @@ Requerimientos lógicos de base de datos	| Información que se almacenará.
 Restricciones de diseño	| Estándares, normas y limitaciones impuestas.
 Atributos del sistema |	Fiabilidad, disponibilidad, seguridad, mantenibilidad, portabilidad.
 Otros requerimientos |	Lo que no sale en lo anterior
-Apéndices e índice |	Material de apoyo 
+**Apéndices e índice** |	Material de apoyo 
 
+**Características de un buen requerimiento**
 
+Según IEEE 832-1998 un buen requerimiento contiene lo siguiente:
 
+**Característica** |	**Significado**
+**Correcto** |	Refleja una necesidad real de los interesados
+**No ambiguo** |	Admite una sola interpretación
+**Completo** |	No omite información necesaria
+**Consistente**	| No contradice a otros requerimientos
+**Verificable** |	Se puede comprobar con una prueba, inspección o medición
+**Modificable** |	Su estructura permite cambiarlo sin afectar a todo el documento
+**Trazable** |	Tiene un identificador y se puede rastrear a su origen y a su implementación
+**Priorizado** |	Se indica su importancia o estabilidad
+**Singular / atómico** |	Expresa una sola cosa (29148)
+**Factible** |	Es realizable con los recursos y el tiempo del proyecto (29148)
 
+  **EJEMPLO MALO**
+RF-01: El sistema debe ser rápido y fácil de usar, y permitir gestionar a los clientes de manera eficiente.
+
+  **EJEMPLO BUENO**
+RF-01: El sistema debe permitir al usuario con rol Administrador registrar un cliente capturando nombre, correo electrónico y teléfono.
+
+RNF-01: El sistema debe mostrar los resultados de una búsqueda de clientes en un máximo de 2 segundos para el 95 % de las consultas, con hasta 50 usuarios concurrentes.
 
 
 **Declaración de uso de la IA generativa.**
