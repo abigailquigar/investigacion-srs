@@ -19,7 +19,7 @@ Además, ayuda a evitar problemas, como:
 Las secciones que propone el estándar IEEE 830-1998 son las siguientes:
 
 **Sección** | **Contenido** |
---- | --- |
+------------------------------------------- | --------------------------------------------- |
 Seconds | 301 |
 
 **Declaración de uso de la IA generativa.**
